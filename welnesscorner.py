@@ -36,3 +36,4 @@ for item in range(500,601):
     f.write(f"{Category}, {product_url}\n")
 
 f.close()
+print("Successfully Scraped the Website")
